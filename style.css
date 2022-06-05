@@ -40,7 +40,7 @@ input[type=search]{
     justify-content: center;
     align-items: center;
 }
-@media (max-width: 600px) {
+@media (max-width: 500px) {
    
     .google-logo{
         display: flex;
